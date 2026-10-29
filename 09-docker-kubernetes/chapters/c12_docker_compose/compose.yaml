@@ -1,0 +1,3 @@
+# Docker Compose
+# TODO: app + postgres services from the chapter
+services: {}

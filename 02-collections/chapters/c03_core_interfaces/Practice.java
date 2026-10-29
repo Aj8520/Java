@@ -1,0 +1,19 @@
+package c03_core_interfaces;
+
+/**
+ * 02.03 · Core interfaces
+ * Handbook: Java Collections Handbook (collections.html#interfaces)
+ *
+ * Run: mvn -q -pl 02-collections compile exec:java -Dexec.mainClass=c03_core_interfaces.Practice
+ */
+public class Practice {
+
+    public static void main(String[] args) {
+        System.out.println("== Core interfaces ==");
+
+        // TODO 1: Re-type the core example from the handbook chapter and run it.
+        // TODO 2: Change one thing (input, type, edge case) and predict the output before running.
+        // TODO 3: Write a small real-life example of your own using this concept.
+        // TODO 4: Recreate one interview question from the chapter as code.
+    }
+}
