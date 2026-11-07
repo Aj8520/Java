@@ -35,7 +35,7 @@ you can explain it out loud in 2 minutes (definition → example → trade-off).
 **Goal:** Write clean object-oriented Java and understand how String really works.
 
 - [x] **001** · 01.01 [Classes & objects](01-oop-exceptions/chapters/c01_classes_objects/NOTES.md) — `topic/01-oop-exceptions/01-classes-objects`
-- [ ] **002** · 01.02 [Access modifiers](01-oop-exceptions/chapters/c02_access_modifiers/NOTES.md) — `topic/01-oop-exceptions/02-access-modifiers`
+- [x] **002** · 01.02 [Access modifiers](01-oop-exceptions/chapters/c02_access_modifiers/NOTES.md) — `topic/01-oop-exceptions/02-access-modifiers`
 - [ ] **003** · 01.03 [Encapsulation](01-oop-exceptions/chapters/c03_encapsulation/NOTES.md) — `topic/01-oop-exceptions/03-encapsulation`
 - [ ] **004** · 01.04 [Inheritance](01-oop-exceptions/chapters/c04_inheritance/NOTES.md) — `topic/01-oop-exceptions/04-inheritance`
 - [ ] **005** · 01.05 [Polymorphism](01-oop-exceptions/chapters/c05_polymorphism/NOTES.md) — `topic/01-oop-exceptions/05-polymorphism`
